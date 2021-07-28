@@ -1,6 +1,6 @@
-/**
- * Authors: Oghenekparobo Onosemuode
- *          Divine Okonu
+/*
+ * File: handlers.c
+ * Auth: Oghenekparobo Onosemuode and Ukonu Divine Chisom
  */
 
 #include "holberton.h"

@@ -1,7 +1,8 @@
-/**
- * Authors - Oghenekparobo Onosemuode
- *           Divine Okonu
+/*
+ * File: _printf.c
+ * Auth: Oghenekparobo Onosemuode and Ukonu Divine Chisom
  */
+
 #include "holberton.h"
 
 void cleanup(va_list args, buffer_t *output);
