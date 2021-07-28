@@ -1,7 +1,8 @@
-/**
- * Authors: Oghenekparobo Onosemuode
- *          Divine Okonu
+/*
+ * File: mem_helpers.c
+ * Auth: Oghenekparobo Onosemuode and Ukonu Divine Chisom
  */
+
 #include "holberton.h"
 
 unsigned int _memcpy(buffer_t *output, const char *src, unsigned int n);
