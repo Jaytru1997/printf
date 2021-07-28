@@ -1,7 +1,8 @@
-/**
- * Authors: Oghenekparobo Onosemuode
- *          Divine Okonu
+/*
+ * File: modifiers.c
+ * Auth: Oghenekparobo Onosemuode an Ukonu Divine Chisom
  */
+
 #include "holberton.h"
 
 unsigned int print_width(buffer_t *output, unsigned int printed,
